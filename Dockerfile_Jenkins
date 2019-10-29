@@ -8,6 +8,7 @@ RUN /usr/local/bin/install-plugins.sh email-ext
 RUN /usr/local/bin/install-plugins.sh mailer
 RUN /usr/local/bin/install-plugins.sh blueocean
 RUN /usr/local/bin/install-plugins.sh gitlab-plugin
+RUN /usr/local/bin/install-plugins.sh build-timestamp
 
 # Artifacts
 RUN /usr/local/bin/install-plugins.sh htmlpublisher
