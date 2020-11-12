@@ -1,5 +1,5 @@
 # Sparks
-All about prgramming.
+技术知识与思考...
 
 ## Git
 [Pro Git](https://git-scm.com/book)介绍了关于Git的基础知识，非常好的起点。  
